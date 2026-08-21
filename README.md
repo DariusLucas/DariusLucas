@@ -63,7 +63,7 @@ The website is actively used by the business and has contributed to bringing in 
 
 A football analytics product focused on natural-language football queries, structured data, and data-driven match analysis.
 
-**Tech:**Groq AI · Python · FastAPI · TypeScript · pandas · scikit-learn
+**Tech:** Groq AI · Python · FastAPI · TypeScript · pandas · scikit-learn
 
 🔗 **[View repository](https://github.com/DariusLucas/MatchMind)**
 
