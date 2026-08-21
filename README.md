@@ -4,7 +4,7 @@
 
 ### Software Developer · TypeScript · Python · Applied AI
 
-I build products that solve real problems — from AI-powered banking experiences to production websites used by real businesses.
+I build products that solve real problems from AI-powered banking experiences to production websites used by real businesses.
 
 </div>
 
@@ -51,7 +51,7 @@ I worked with:
 
 A production website built for a real cosmetics salon, designed to clearly present services and convert visitors into bookings.
 
-The website is actively used by the business and has contributed to bringing in approximately **10–15 real clients**.
+The website is actively used by the business and has contributed to bringing in approximately **10–15 real clients** per month.
 
 🌐 **[carinabeauty.ro](https://carinabeauty.ro)**
 
@@ -63,7 +63,7 @@ The website is actively used by the business and has contributed to bringing in 
 
 A football analytics product focused on natural-language football queries, structured data, and data-driven match analysis.
 
-**Tech:** Python · FastAPI · TypeScript · pandas · scikit-learn
+**Tech:**Groq AI · Python · FastAPI · TypeScript · pandas · scikit-learn
 
 🔗 **[View repository](https://github.com/DariusLucas/MatchMind)**
 
@@ -103,8 +103,3 @@ A personal productivity application for organizing goals, tasks, habits, and pro
 
 ---
 
-<div align="center">
-
-### Build useful things. Learn by shipping.
-
-</div>
