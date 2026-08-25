@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About me
 
-I'm a software developer currently focused on **TypeScript** and **Python**, with a growing interest in backend engineering, applied AI, and machine learning.
+I'm a software engineer currently focused on **TypeScript**, **Python** and **, with an interest in backend engineering, applied AI, and machine learning.
 
 I enjoy building complete products: designing the experience, connecting APIs, working with data, integrating AI models, and turning ideas into things people can actually use.
 
