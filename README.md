@@ -2,9 +2,8 @@
 
 # Hey, I'm Darius 👋
 
-### Software Developer · TypeScript · Python · Applied AI
+### AI Full-Stack Engineer · TypeScript · Python · Java
 
-I build products that solve real problems from AI-powered banking experiences to production websites used by real businesses.
 
 </div>
 
