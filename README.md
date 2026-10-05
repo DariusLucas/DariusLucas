@@ -41,40 +41,6 @@ I worked with:
 - external marketplace/API integrations
 - ranking and recommendation flows based on price and trust
 
-> 🔒 The source code is private because this was developed during my internship, but I can discuss the product, architecture, and my contributions.
-
----
-
-### 💄 Carina Beauty — Live Business Website
-**Production project · Live**
-
-A production website built for a real cosmetics salon, designed to clearly present services and convert visitors into bookings.
-
-The website is actively used by the business and has contributed to bringing in approximately **10–15 real clients** per month.
-
-🌐 **[carinabeauty.ro](https://carinabeauty.ro)**
-
-**Tech:** Next.js · TypeScript · Responsive UI · SEO
-
----
-
-### ⚽ MatchMind — In Development
-
-A football analytics product focused on natural-language football queries, structured data, and data-driven match analysis.
-
-**Tech:** Groq AI · Python · FastAPI · TypeScript · pandas · scikit-learn
-
-🔗 **[View repository](https://github.com/DariusLucas/MatchMind)**
-
----
-
-### 📅 MyPlanner — In Development
-
-A personal productivity application for organizing goals, tasks, habits, and progress.
-
-🔗 **[View repository](https://github.com/DariusLucas/MyPlanner)**
-
----
 
 ## 🛠️ Tech I use
 
@@ -91,14 +57,4 @@ A personal productivity application for organizing goals, tasks, habits, and pro
 
 </div>
 
----
-
-## 📌 Currently
-
-- ⚽ Building **MatchMind**
-- 📅 Building **MyPlanner**
-- 🧠 Learning practical machine learning with real datasets
-- 🐍 Going deeper with **Python, FastAPI, pandas, and scikit-learn**
-
----
 
