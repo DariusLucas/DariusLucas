@@ -1,58 +1,18 @@
 <div align="center">
-
-# Hey, I'm Darius 👋
-
-### AI Full-Stack Engineer · TypeScript · Python · Java
-
-
+  <img src="./assets/profile-banner.gif" alt="Animated banner for Darius Lucas, Full-Stack & AI Engineer, working at a coding desk" width="100%" />  Portfolio · LinkedIn · Email · GitHub
 </div>
+I build full-stack applications with practical AI — from product interfaces and APIs to intelligent features and ML evaluation. I care about engineering that works and feels good to use.
+Experience
+Raiffeisen Bank Romania · Full-Stack Engineering Intern · Jan–Apr 2026
+Helped build a mobile banking app in a four-person team using React Native, Spring Boot and PostgreSQL, integrating AI agents, RAG, MCP, voice and camera interactions. Our project earned 2nd place for technical execution and product innovation in an executive evaluation.
+Featured work
+- MatchMind — Football analytics combining natural-language queries, ML match predictions and LLM evaluation. Python · FastAPI · PostgreSQL · scikit-learn
+- Replens — Live-camera AI exercise coaching; coordinated frontend work in an eight-person team. React Native · Expo · Spring Boot · Portfolio
+- Carina Beauty — Production client website generating approximately 15–20 new appointments/month (CV-reported). Next.js · TypeScript · Tailwind CSS
+Tech at a glance
+Frontend: TypeScript · React · Next.js · React Native
+Backend: Java · Spring Boot · Python · FastAPI · PostgreSQL
+AI / ML: LLMs · AI agents · RAG · MCP · scikit-learn
+Tools: Git · Docker · Vercel · REST APIs
 
----
-
-## 👨‍💻 About me
-
-I'm a software engineer currently focused on **TypeScript**, **Python** and **Java**, with an interest in backend engineering, applied AI, and machine learning.
-
-Right now I'm going deeper with **FastAPI, pandas, and scikit-learn**, while continuing to build larger full-stack projects.
-
----
-
-## 🚀 Featured work
-
-### 🏦 Safety Center & Smart Search — Raiffeisen Bank Internship Project
-**Internship project · Private repository**
-
-A banking application I worked on during my internship at **Raiffeisen Bank**, with AI-powered features designed to make product discovery more natural and useful.
-
-**Smart Search** lets users discover products and offers in two ways:
-
-- 💬 **Natural-language search** — ask for something like a *Samsung S25* and receive relevant offers ranked by criteria such as **price** or **trust**.
-- 📷 **Live camera search** — show an object to the camera, have AI recognize the product, then automatically search for matching offers.
-
-The system integrates marketplace data from services such as **eMAG, AutoScout24, and Storia** to surface relevant listings and compare options.
-
-I worked with:
-
-- **OpenAI o4** for text-based AI capabilities
-- **Gemini 2.5 Flash** for real-time speech interaction
-- live camera-based product recognition
-- external marketplace/API integrations
-- ranking and recommendation flows based on price and trust
-
-
-## 🛠️ Tech I use
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-
+<sub>Currently exploring transformer architectures, model evaluation and reliable AI systems.</sub>
