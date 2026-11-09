@@ -4,7 +4,7 @@
 
 **Full-Stack & AI Engineer** based in Cluj-Napoca, Romania. I build full-stack products with practical AI — from interfaces and APIs to intelligent features and ML pipelines.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C4AE2?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-darius-lucas.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C4AE2?style=flat-square&logo=vercel&logoColor=white)](https://dariuslucas.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darius-balogh-aa7746204/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dariusbalogh0@gmail.com)
 
@@ -39,6 +39,6 @@
 ## 📌 Stuff I've Made
 
 - **[MatchMind](https://github.com/DariusLucas/MatchMind)** — AI football analytics with natural-language queries, ML predictions, and LLM evaluation.
-- **[Replens](https://portfolio-darius-lucas.vercel.app/)** — AI fitness coaching with live-camera movement analysis; coordinated an eight-person team's frontend work. *(Portfolio project)*
+- **[Replens](https://dariuslucas.com/)** — AI fitness coaching with live-camera movement analysis; coordinated an eight-person team's frontend work. *(Portfolio project)*
 - **[Carina Beauty](https://carinabeauty.ro/)** — production Next.js website bringing in approximately **15–20 new appointments/month**.
-- **[Safety Center](https://portfolio-darius-lucas.vercel.app/)** — mobile banking internship project integrating AI agents, voice, and camera-based product discovery. *(Private code)*
+- **[Safety Center](https://dariuslucas.com/)** — mobile banking internship project integrating AI agents, voice, and camera-based product discovery. *(Private code)*
